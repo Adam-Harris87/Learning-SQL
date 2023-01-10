@@ -1,1 +1,1 @@
-# Learning-SQL
+This repository is for working through the examples from the book Learning-SQL 2nd ed by Alan Beaulieu and O'Reilly media. [978-0-596-52083-0]
